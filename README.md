@@ -1,4 +1,4 @@
-# Cypress E2E — Sauce Demo (Portfolio Exercise 1)
+# Cypress E2E — Sauce Demo
 
 Beginner **UI end-to-end** automation with **Cypress** and **JavaScript**, targeting the public demo site [Sauce Demo](https://www.saucedemo.com/).
 
